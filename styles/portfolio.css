@@ -1,0 +1,340 @@
+.banner {
+    text-align: center;
+}
+
+.banner-title {
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    margin: 174px 307px;
+    margin-bottom: 20px;
+    margin-top: 175px;
+}
+
+.banner-description {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 374px;
+
+}
+
+.banner-btn {
+    padding: 16px 20px;
+    border-radius: 5px;
+    background: #FF5959;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+}
+
+.header {
+    background-image: url('../images/donation7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0 0;
+    padding: 0;
+
+
+}
+
+.section-title {
+    text-align: center;
+    margin-top: 130px;
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.section-description {
+    text-align: center;
+    margin: 20px 375px;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.section-tk {
+    color: #707070;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 43px 24px;
+    border-radius: 5px;
+    background: #FAFAFA;
+}
+
+.section-tk-main {
+    display: flex;
+    margin: 50px 360px;
+    gap: 20px;
+}
+
+.two {
+    color: #FF5959;
+}
+
+.section-amount {
+    margin: 60px 650px;
+    color: #B3B3B3;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 9.5px;
+}
+
+.section-underline {
+    width: 765px;
+    height: 0px;
+}
+
+.second-btn {
+    display: flex;
+    width: 160px;
+    padding: 16px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin: 30px 640px;
+    border-radius: 5px;
+    background: #FF5959;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.section-title-two {
+    text-align: center;
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 130px;
+}
+
+.section-description-two {
+    text-align: center;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 375px;
+}
+
+.donate-container {
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+    margin-left: 157px;
+    margin-right: 155px;
+    margin-bottom: 182.5px;
+
+}
+
+.donate {
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+
+}
+
+.donate-title {
+    color: #121212;
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 23px;
+    padding-top: 31.73px;
+    padding-right: 133px;
+    padding-bottom: 16px;
+
+}
+
+.donate-description {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 23px;
+    padding-right: 22px;
+    padding-bottom: 54px;
+}
+
+.image {
+    padding-left: 23px;
+    padding-top: 63.5px;
+    padding-right: 278.87px;
+}
+
+.lives {
+    display: flex;
+    align-items: center;
+    margin: 182px 157px;
+    gap: 0;
+
+
+}
+
+
+.btn-how {
+    padding: 16px 21px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FF5959;
+    border: none;
+}
+
+.lives-image {
+    width: 825px;
+    height: 550px;
+    background: #FFF;
+    align-items: center;
+    margin: 0 200px;
+
+
+}
+
+.lives-sub-title {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    margin-right: 791px;
+    margin-bottom: 20px;
+    height: 108px;
+    width: 492px;
+}
+
+.lives-title {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    height: 84px;
+    width: 482px;
+    margin-right: 802px;
+    margin-bottom: 20px;
+
+}
+
+.lives-description {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 802px;
+}
+
+.need-title {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 707px;
+    margin-right: 400px;
+    width: 333px;
+    margin-bottom: 20px;
+}
+
+.need-sub-description {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    width: 482px;
+    margin-left: 706px;
+    margin-right: 252px;
+}
+
+.need-description {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    width: 482px;
+    margin-left: 706px;
+    margin-right: 252px;
+}
+
+.btn-how-need {
+    padding: 16px 21px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FF5959;
+    border: none;
+    margin-left: 706px;
+    margin-right: 504px;
+}
+
+.update-title {
+    text-align: center;
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.update-description {
+    text-align: center;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 305px;
+    margin-right: 305px;
+    width: 691px;
+}
+
+.Subscribe {
+    display: flex;
+    background: #FFF4D6;
+    text-align: center;
+    padding: 76px 188px;
+    margin-top: 50px;
+    margin-left: 315px;
+    margin-right: 315px;
+}
+
+.btn-email {
+    color: #AA9F9F;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px 0px 0px 5px;
+    background: #D9D9D9;
+    width: 275px;
+    height: 48px;
+    border: none;
+}
+
+.btn-sub {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 0px 5px 5px 0px;
+    background: #FF5959;
+    width: 157px;
+    height: 48px;
+    border: none;
+
+}
+
+.footer {
+    width: 1440px;
+    height: 177px;
+    text-align: center;
+    background: var(--default-black, #0B0D17);
+}
+
+.humble {
+    color: #FF5959;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 43px;
+    font-style: italic;
+}
+
+.do {
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-style:initial;
+}
